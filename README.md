@@ -11,3 +11,4 @@ Updated the current codebase of a website in order to meet web accessibility sta
 - The title element has a concise, descriptive title.
 
 ## License
+![GitHub](https://img.shields.io/github/license/RogelioSan09/user-web-accessibility)
